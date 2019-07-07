@@ -115,7 +115,6 @@ class App extends Component {
                   loading={loading} />
               )} />
             </Switch>
-
           </div>
         </div>
       </Router>
