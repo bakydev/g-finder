@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Check it out with one click!
-[link](https://g-finder.netlify.com/)
+[Click to visit!](https://g-finder.netlify.com/)
 
 ## Available Scripts
 
